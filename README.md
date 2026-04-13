@@ -1,6 +1,6 @@
-# smallzh TypeScript
+# smallzh frontend-dev
 
-记录我对TypeScript的相关理解
+记录对于浏览器页面开发相关的ES6/TypeScript/React18+/Tailwind CSS的相关知识点
 
 ## 1.安装依赖
 

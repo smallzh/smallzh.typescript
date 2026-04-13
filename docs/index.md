@@ -1,6 +1,6 @@
-# ES6/TypeScript 核心知识库
+# ES6/TypeScript/React18+/Tailwind CSS的核心知识库
 
-这是一个记录 ES6 和 TypeScript 核心知识点的知识库，包含详细的代码示例和最佳实践。
+这是一个记录 ES6/TypeScript/React18+/Tailwind CSS的核心知识点的知识库，包含详细的代码示例和最佳实践。
 
 ## 知识库结构
 

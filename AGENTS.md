@@ -1,8 +1,8 @@
-# AGENTS.md - smallzh.typescript项目指南
+# AGENTS.md - smallzh-frontend-dev项目指南
 
 ## 项目概述
 
-这是一个记录 ES6/TypeScript 关键知识的文档项目，使用 MkDocs 构建。项目目标是记录ES6/TypeScript的理解和学习笔记，涵盖从基础语法到常用库的各个方面。
+这是一个记录 ES6/TypeScript/React18+/Tailwind CSS 关键知识的文档项目，使用 MkDocs 构建。项目目标是记录ES6/TypeScript/React18+/Tailwind CSS的理解和学习笔记，涵盖从基础语法到常用库的各个方面。
 
 
 
@@ -103,11 +103,10 @@ uv run mkdocs gh-deploy
 3. **主题**: 使用自定义的 `smzhbook` 主题
 4. **中文内容**: 文档使用中文编写
 5. **文件命名**: 使用小写字母和下划线命名文档文件
-6. **JDK版本**: 使用OpenJdk17
 
 ## 扩展指南
 
-### 添加新的 ES6/TypeScript 库文档
+### 添加新的 ES6/TypeScript/React18+/Tailwind CSS 库文档
 
 1. 创建 `docs/new_library.md`
 2. 按照以下结构组织内容：

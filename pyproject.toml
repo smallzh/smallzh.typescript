@@ -1,10 +1,10 @@
 [project]
-name = "smallzh-typescript"
+name = "smallzh-frontend-dev"
 version = "0.1.0"
-description = "TypeScript的关键知识汇总"
+description = "ES6/TypeScript/React18+/Tailwind CSS的关键知识汇总"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "mkdocs>=1.6.1",
-    "mkdocs-smzhbook-theme>=1.2",
+    "mkdocs-smzhbook-theme>=1.3",
 ]
