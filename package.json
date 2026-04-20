@@ -1,0 +1,23 @@
+{
+  "name": "smallzh-agents-dev",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "src/react18",
+    "src/tailwindcss",
+    "src/typescript",
+    "src/es6"
+  ],
+  "scripts": {
+    "dev:react18": "npm run dev --workspace=src/react18",
+    "dev:tailwindcss": "npm run dev --workspace=src/tailwindcss",
+    "dev:typescript": "npm run dev --workspace=src/typescript",
+    "dev:es6": "npm run dev --workspace=src/es6",
+    "build:react18": "npm run build --workspace=src/react18",
+    "build:tailwindcss": "npm run build --workspace=src/tailwindcss",
+    "build:typescript": "npm run build --workspace=src/typescript",
+    "build:es6": "npm run build --workspace=src/es6",
+    "test:typescript": "npm run test --workspace=src/typescript",
+    "test:es6": "npm run test --workspace=src/es6"
+  }
+}

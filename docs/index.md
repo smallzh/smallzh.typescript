@@ -2,7 +2,7 @@
 
 这是一个记录 ES6/TypeScript/React18+/Tailwind CSS的核心知识点的知识库，包含详细的代码示例和最佳实践。
 
-## 知识库结构
+## 0x01. 知识库结构
 
 ### ES6（ECMAScript 2015+）
 
@@ -20,17 +20,23 @@ TypeScript 是 JavaScript 的超集，添加了静态类型系统。
 - **常用部分**：类、泛型、类型断言、类型守卫等
 - **进阶部分**：索引类型、映射类型、条件类型、装饰器等
 
-## 学习路径
+## 0x02. 学习路径
 
 1. **初学者**：从 ES6 基础开始，掌握现代 JavaScript 语法
 2. **进阶者**：学习 TypeScript 基础，理解类型系统
 3. **高级开发者**：深入 TypeScript 进阶特性，掌握高级类型技巧
 
-## 如何使用
+## 0x03. 如何使用
 
-- 点击左侧导航栏浏览不同主题
-- 每个知识点都包含详细的代码示例
-- 代码示例可以直接复制运行
+### 1 React18 开发服务器
+npm run dev:react18
+### 2 Tailwind CSS 开发服务器
+npm run dev:tailwindcss
+### 3 TypeScript 测试
+npm run test:typescript
+### 4 ES6 测试
+npm run test:es6
+
 
 ## 参考资料
 
